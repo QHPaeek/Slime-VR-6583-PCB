@@ -1,0 +1,2 @@
+# Slime-VR-6583-PCB
+12F主控，6050+5883方案的贴片slimeVRPCB
